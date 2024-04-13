@@ -34,7 +34,7 @@ There will be breaking changes. But until a version 1.0 is released, no support 
 ### Sponsoring
 
 If you want to sponsor the development of LightCov, for example to pay for a more professional domain or even a dedicated server,
-you can do so by buying me a coffee and making a note that it is for LightCov. [Buy me a coffee](https://www.buymeacoffee.com/caen)
+you can do so by buying me a coffee and making a note that it is for LightCov. [buymeacoffee.com/caen](https://www.buymeacoffee.com/caen)
 
 ## Information
 
